@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">HabitApp</string>
+
+    <!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all habit data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Habits</string>
+
+    <!-- Title for the activity to add a new habit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <!-- Toast message in editor when new habit has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_habit_successful">Habit saved</string>
+
+    <!-- Toast message in editor when new habit has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_habit_failed">Error with saving habit</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for time of day information in the editor [CHAR LIMIT=30] -->
+    <string name="category_timeOfDay">Time of Day</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_name">Name</string>
+
+    <!-- Text hint for day of week field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_dayOfWeek">Day of Week</string>
+
+    <!-- Text hint for frequency field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_frequency">Frequency</string>
+
+    <!-- Units for frequency of the habit (count) [CHAR LIMIT=5] -->
+    <string name="unit_habit_frequency">number of times</string>
+
+    <!-- Label for dropdown menu option if the habit's time of day is morning [CHAR LIMIT=20] -->
+    <string name="timeOfDay_morning">Morning</string>
+
+    <!-- Label for dropdown menu option if the habit's time of day is afternoon [CHAR LIMIT=20] -->
+    <string name="timeOfDay_afternoon">Afternoon</string>
+
+    <!-- Label for dropdown menu option if the habit's time of day is evening [CHAR LIMIT=20] -->
+    <string name="timeOfDay_evening">Evening</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the time of day drop-down Spinner -->
+    <string-array name="array_timeOfDay_options">
+        <item>@string/timeOfDay_morning</item>
+        <item>@string/timeOfDay_afternoon</item>
+        <item>@string/timeOfDay_evening</item>
+    </string-array>
+</resources>
